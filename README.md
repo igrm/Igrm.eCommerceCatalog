@@ -1,2 +1,2 @@
-# Igrm.eCommerceCatalog
+# Igrm.eCommerceProductCatalog
 Configurable E-commerce product catalog
